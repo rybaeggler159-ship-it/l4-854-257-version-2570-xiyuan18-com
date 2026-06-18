@@ -1,16 +1,13 @@
-﻿# website-upload-854-257
+# 热门亚洲电影-热门影片片库-高清影片在线观看
 
-Batch 257 of 50. Contains extracted static website versions. The original zip files are not committed.
+本 ZIP 为纯静态电影网站文件，可直接部署到静态空间或服务器根目录。
 
-| Directory | Source zip |
-| --- | --- |
-| version-2561 | project-bolt-sb1-oxshzscp-chatgpt (1).zip |
-| version-2562 | project-bolt-sb1-oxshzscp-chatgpt (1)__1.zip |
-| version-2563 | project-bolt-sb1-oyetfuaq - 副本-chatgpt (1).zip |
-| version-2564 | project-bolt-sb1-oyetfuaq-chatgpt (1).zip |
-| version-2565 | project-bolt-sb1-oyetfuaq-chatgpt (1)__1.zip |
-| version-2566 | project-bolt-sb1-ozbjsq1y - 副本-chatgpt (1).zip |
-| version-2567 | project-bolt-sb1-ozbjsq1y-chatgpt (1).zip |
-| version-2568 | project-bolt-sb1-ozbjsq1y-chatgpt (1)__1.zip |
-| version-2569 | project-bolt-sb1-p1hzkqv1 - 副本-chatgpt (1).zip |
-| version-2570 | project-bolt-sb1-p1hzkqv1-chatgpt (1).zip |
+生成结果：
+- 解析数据块：2000
+- 生成影片：1984
+- 跳过非影片/占位说明块：16
+- 详情页：1984 个
+- 播放页：1984 个
+- 分类页：352 个
+
+图片说明：页面已按顶级目录 1.jpg 到 150.jpg 引用封面/焦点图。请将图片文件与 index.html 放在同一层级。
